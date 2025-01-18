@@ -4,6 +4,7 @@
 This repository contains documentation for a series of networking projects implemented on AWS. These projects are designed to enhance your understanding of Virtual Private Cloud (VPC) concepts and practical implementations, ranging from beginner to intermediate levels. By completing these projects, you'll gain hands-on experience with building, managing, and securing VPCs in a cloud environment.
 
 ## Projects
+### Beginner Level
 ![image](https://github.com/user-attachments/assets/61280fb0-b11d-4f4e-a36c-0476835c39f9)
 
 ### Intermediate Level
