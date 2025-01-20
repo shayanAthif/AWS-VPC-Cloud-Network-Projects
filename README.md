@@ -4,21 +4,9 @@
 This repository contains documentation for a series of networking projects implemented on AWS. These projects are designed to enhance your understanding of Virtual Private Cloud (VPC) concepts and practical implementations, ranging from beginner to intermediate levels. By completing these projects, you'll gain hands-on experience with building, managing, and securing VPCs in a cloud environment.
 
 ## Projects
-### Beginner Level
-![image](https://github.com/user-attachments/assets/61280fb0-b11d-4f4e-a36c-0476835c39f9)
+![image](https://github.com/user-attachments/assets/5c43cddb-2001-4862-9643-04bdb0ff45e2)
 
-### Intermediate Level
-6. **VPC Peering**
-   - Establish peering connections between two VPCs to allow resource sharing.
-
-7. **VPC Monitoring**
-   - Use AWS monitoring tools to track and analyze VPC traffic and performance.
-
-8. **Access S3 from a VPC**
-   - Configure S3 endpoints for private access to S3 buckets from your VPC.
-
-9. **VPC Endpoints**
-   - Set up VPC endpoints to privately connect your VPC to supported AWS services.
+![image](https://github.com/user-attachments/assets/dab8bc06-9752-4132-91e5-65ce5df771a5)
 
 ## How to Use
 1. Clone this repository:
