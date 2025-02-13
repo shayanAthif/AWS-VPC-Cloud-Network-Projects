@@ -15,8 +15,5 @@ This repository contains documentation for a series of networking projects imple
    ```
 2. Navigate to the desired project folder and read the documentation for step-by-step instructions.
 
-## Contribution
-Have a networking project you'd like to see? Submit your ideas or create a pull request to add it to our wishlist!
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+## Acknowledgements  
+I would like to thank the Network Team for the opportunity to work on these projects. If you're interested in similar projects, visit [Nextwork.org](network.org) to get started!
